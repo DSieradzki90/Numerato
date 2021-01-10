@@ -9044,3 +9044,12 @@ padding-left: 5rem;
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+    td {
+      vertical-align: top;
+      text-align: left;
+    }
+     li {
+       list-style: none;
+     }
