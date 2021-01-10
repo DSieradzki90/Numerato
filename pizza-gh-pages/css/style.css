@@ -8910,6 +8910,70 @@ textarea.form-control {
   transition: opacity .2s ease-out, visibility 0s linear .2s;
   z-index: 1000; }
 
+.dowoz{
+  text-align: center;
+  padding-left: 5rem;
+  margin: 25px;
+  padding: 0.5rem;
+}
+
+#pizzaa2{
+  text-align: center;
+  margin: 25px; 
+  padding-top: 5rem;
+}
+
+#pizza{
+ text-align: left; 
+ margin: 25px;
+ padding-left: 5rem;
+ color: rgb(40, 180, 12);
+ font-size: 1.5rem;
+
+}
+
+#daniednia{
+max-width: 100%;
+justify-content: center;
+margin: 2rem;
+padding-left: 5rem;
+
+
+}
+#fastfood{
+  text-align: center;
+  margin: 25px; 
+  padding-top: 5rem;
+ padding-left: 5rem;
+ color: rgb(40, 180, 12);
+ font-size: 1.5rem;
+}
+
+#pizza{
+ text-align: left; 
+ margin: 25px;
+ padding-left: 5rem;
+ color: rgb(40, 180, 12);
+ font-size: 1.5rem;
+
+}
+
+#pizzaprice{
+  text-align: right;
+}
+
+ .btn{
+  
+  font-size: 1.5rem;
+  margin: 18px;
+  padding: 15px 25px;
+  text-align: center;
+  position:relative;
+  border-radius: 2rem;
+ }
+
+ 
+  
 #ftco-loader.fullscreen {
   padding: 0;
   left: 0;
