@@ -9053,3 +9053,8 @@ padding-left: 5rem;
      li {
        list-style: none;
      }
+
+     .cover-foto {
+       background-size: cover;
+       background-repeat: no-repeat;
+     }
