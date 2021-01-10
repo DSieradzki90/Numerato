@@ -9058,3 +9058,7 @@ padding-left: 5rem;
        background-size: cover;
        background-repeat: no-repeat;
      }
+
+     .ftco-footer {
+       padding: 1em 0 0;
+     }
